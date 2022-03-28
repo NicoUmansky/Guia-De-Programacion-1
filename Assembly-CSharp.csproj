@@ -56,6 +56,8 @@
      <Compile Include="Assets\Scripts\Ejercicio1.cs" />
      <Compile Include="Assets\Scripts\Ejercicio2.cs" />
      <Compile Include="Assets\Scripts\Ejercicio3.cs" />
+     <Compile Include="Assets\Scripts\Ejercicio4.cs" />
+     <Compile Include="Assets\Scripts\Ejercicio5.cs" />
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>C:/Users/46755821/Documents/Unity Modelado 3D/Guía de programación 1/Guia-De-Programacion-1/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
